@@ -1,11 +1,15 @@
+<p align="center"><img src="logo.svg" width="160" alt="VisualGeometryToolkit logo"></p>
+
 # Visual Geometry Toolkit
 
-Composable Julia packages for robust multiple-view geometry: geometric types
-and camera models, file formats, feature detection, robust estimation and
-RANSAC, evaluation protocols, and a PoseLib wrapper, factored so each layer is
-usable on its own.
-
 by [James Pritts](https://prittjam.github.io/)
+
+Julia packages for multi-view geometry: primitives, features, robust estimation, RANSAC scoring, evaluation, fiducial markers and calibration.
+
+Composable packages for robust multiple-view geometry: geometric types, file
+formats, feature detection, robust estimation and RANSAC, calibration (camera
+and lens models, hand–eye), fiducial markers (BlobBoards), evaluation
+protocols, and a PoseLib wrapper, factored so each layer is usable on its own.
 
 Documentation for every package: <https://visualgeometrytoolkit.github.io>
 
